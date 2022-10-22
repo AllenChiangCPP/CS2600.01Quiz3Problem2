@@ -1,0 +1,1 @@
+//struct that contains name of item on menu and its price
